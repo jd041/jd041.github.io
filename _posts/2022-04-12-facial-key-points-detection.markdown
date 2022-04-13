@@ -29,13 +29,13 @@ To preprocess the images, I turn them into grayscale and then normalize them to 
 
 Below are some sampled images visualized with ground-truth keypoints. 
 
-<center class="only">    <img src="./result/samples.png" width="400"/>    <figcaption>samples with nose tip</figcaption> </center>
+<center class="only">    <img src="assets/2022-04-12-facial-key-points-detection/result/samples.png" width="400"/>    <figcaption>samples with nose tip</figcaption> </center>
 
 ### CNN
 
 The model I use is below.
 
-<center class="only">    <img src="./result/model_nose.png" width="600"/>    <figcaption>model for nose tip detection</figcaption> </center>
+<center class="only">    <img src="assets/2022-04-12-facial-key-points-detection/result/model_nose.png" width="600"/>    <figcaption>model for nose tip detection</figcaption> </center>
 
 ### **Loss Function and Optimizer**
 
