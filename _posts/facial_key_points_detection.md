@@ -1,4 +1,4 @@
-```
+---
 title: "Facial Keypoint Detection with Neural Networks"
 layout: post
 date: 2022-04-12 22:10
@@ -11,7 +11,7 @@ description: "Using neural networks for facial keypoint detection."
 category: project
 author: jasonding
 externalLink: false
-```
+---
 
 # Facial Keypoint Detection with Neural Networks
 
