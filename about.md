@@ -4,42 +4,60 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am passionate about deep learning. Previously, I was an undergraduate research assistant at RISELab under the supervision of professor Joseph Gonzalez and PhD candidate Nathan Pemberton. I worked on the KaaS(Kernel as a Service) project. Now, I am working on deep learning for code vulnerability detection.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Java</li>
+	<li>C</li>
+	<li>SQL</li>
+	<li>RISC-V</li>
+  <li>AWS</li>
+	<li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Computer Vision</li>
+  <li>Serverless Computing</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Selected Courseworks</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h3>Spring 2022</h3>
+
+Math104: Introduction to Analysis 
+Math185: Introduction to Complex Analysis
+
+<h3>Fall 2021</h3>
+
+CS186: Introduction to Database Systems
+
+CS194-26*: Intro to Computer Vision and Computational Photography
+
+EECS127*: Optimization Models in Engineering
+
+Math128A: Numerical Analysis
+
+<h3>Spring 2021</h3>
+
+CS162: Operating Systems and System Programming
+
+CS189*: Introduction to Machine Learning
+
+Math113: Introduction to Abstract Algebra
+
+<h3>Fall 2020</h3>
+
+CS170: Efficient Algorithms and Intractable Problems
+
+CS61C: Machine Structures
+
+Math110: Linear Algebra
+
+Stat134: Concepts of Probability
+
+
+
+*same as the graduate version
+
