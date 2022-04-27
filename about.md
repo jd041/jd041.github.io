@@ -24,13 +24,13 @@ layout: page
 
 <h2>Selected Courseworks</h2>
 
-<h3>Spring 2022</h3>
+<h4>Spring 2022</h4>
 
 Math104: Introduction to Analysis
 
 Math185: Introduction to Complex Analysis
 
-<h3>Fall 2021</h3>
+<h4>Fall 2021</h4>
 
 CS186: Introduction to Database Systems
 
@@ -40,7 +40,7 @@ EECS127*: Optimization Models in Engineering
 
 Math128A: Numerical Analysis
 
-<h3>Spring 2021</h3>
+<h4>Spring 2021</h4>
 
 CS162: Operating Systems and System Programming
 
@@ -48,7 +48,7 @@ CS189*: Introduction to Machine Learning
 
 Math113: Introduction to Abstract Algebra
 
-<h3>Fall 2020</h3>
+<h4>Fall 2020</h4>
 
 CS170: Efficient Algorithms and Intractable Problems
 
@@ -57,6 +57,10 @@ CS61C: Machine Structures
 Math110: Linear Algebra
 
 Stat134: Concepts of Probability
+
+<h4>Fall 2019 and Spring 2020</h4>
+
+Lower-division CS and Math courses for major requirements
 
 *same as the graduate version
 
