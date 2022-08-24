@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>I am passionate about deep learning. Previously, I was an undergraduate research assistant at RISELab under the supervision of professor Joseph Gonzalez and PhD candidate Nathan Pemberton. I worked on the KaaS(Kernel as a Service) project. Now, I am working on deep learning for code vulnerability detection.</p>
+<p>I am passionate about deep learning and computer systems. Previously, I was an undergraduate research assistant at <a href="https://rise.cs.berkeley.edu/">RISELab</a> under the supervision of professor Joseph Gonzalez and Dr. Nathan Pemberton. I worked on the KaaS (Kernel as a Service) project. Now, I am working on deep learning for code vulnerability detection and the <a href="https://skyplane.org/">Skyplane</a> project at the <a href="https://sky.cs.berkeley.edu/">SkyLab</a>.</p>
 
 
 <h2>Skills</h2>
@@ -19,8 +19,9 @@ layout: page
 	<li>Machine Learning</li>
   <li>Deep Learning</li>
   <li>Computer Vision</li>
-  <li>Serverless Computing</li>
+  <li>Cloud Computing</li>
 </ul>
+
 
 <h2>Selected Courseworks</h2>
 
@@ -65,6 +66,8 @@ Lower-division CS and Math courses for major requirements
 *same as the graduate version
 
 <h2>Teaching</h2>
+
+Fall 2022: CS194/294-26 Course Tutor
 
 Spring 2022: CS189 Course Reader
 
