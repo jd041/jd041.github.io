@@ -6,6 +6,8 @@ layout: page
 
 <p>I am passionate about deep learning and computer systems. Previously, I was an undergraduate research assistant at <a href="https://rise.cs.berkeley.edu/">RISELab</a> under the supervision of professor Joseph Gonzalez and Dr. Nathan Pemberton. I worked on the KaaS (Kernel as a Service) project. Now, I am working on deep learning for code vulnerability detection and the <a href="https://skyplane.org/">Skyplane</a> project at the <a href="https://sky.cs.berkeley.edu/">SkyLab</a>.</p>
 
+<p>In my free time, I enjoy playing basketball, texas hold 'em, and video games. Recently, I'm learning to play guitar.</p>
+
 
 <h2>Skills</h2>
 
