@@ -3,7 +3,7 @@ title: "Tour into the Picture"
 layout: post
 date: 2022-04-16 00:02
 tag: 3D
-projects: true
+#projects: true
 hidden: true # don't count this post in blog pagination
 description: "Create a simple, planar 3D scene from a single photograph"
 category: project
