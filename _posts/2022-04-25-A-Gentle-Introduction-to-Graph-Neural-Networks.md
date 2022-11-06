@@ -1,13 +1,13 @@
 ---
 title: "A Gentle Introduction to Graph Neural Networks"
 layout: post
-date: 2022-03-19 21:48
+date: 2022-11-02 21:48
 #image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - CNN
 - GNN
-#category: blog
+category: blog
 author: jasonding
 description: My study note of GNN
 ---
