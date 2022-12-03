@@ -88,4 +88,4 @@ Fall 2021: CS61C Course Tutor
 
 Spring 2021: CS61C CSM Junior Mentor
 
-You can find my CS61C tutor section slides [here](https://drive.google.com/drive/folders/1t6eSN9BZCW9PN8kqZMNPe93NOM747nX_?usp=sharing) (Berkeley account needed).
+You can find my CS61C tutor section slides [here](https://drive.google.com/drive/folders/1t6eSN9BZCW9PN8kqZMNPe93NOM747nX_?usp=sharing).
