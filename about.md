@@ -6,7 +6,7 @@ layout: page
 
 <h1>About Me</h1>
 
-<p>I am passionate about computer systems and security with the intersection of machine learning. Previously, I was an undergraduate researcher at <a href="https://rise.cs.berkeley.edu/">RISELab</a> under the supervision of Professor <a href="https://people.eecs.berkeley.edu/~jegonzal/?_ga=2.99267613.225382571.1665274227-755746061.1635409893">Joseph Gonzalez</a> and Dr. <a href="https://www.linkedin.com/in/nathan-pemberton-3566816/">Nathan Pemberton</a>. I worked on the KaaS (Kernel as a Service) project. Now, I am working on the <a href="https://skyplane.org/">Skyplane</a> project at the <a href="https://sky.cs.berkeley.edu/">SkyLab</a>. I am also researching deep learning for code vulnerability detection under the supervision of Professor <a href="http://people.eecs.berkeley.edu/~daw/">David Wagner</a> and Professor <a href="https://surrealyz.github.io/">Yizheng Chen</a>.</p>
+<p>I am passionate about computer systems and security with the intersection of machine learning. Previously, I was an undergraduate researcher at <a href="https://rise.cs.berkeley.edu/">RISELab</a> under the supervision of Professor <a href="https://people.eecs.berkeley.edu/~jegonzal/?_ga=2.99267613.225382571.1665274227-755746061.1635409893">Joseph Gonzalez</a> and Dr. <a href="https://www.linkedin.com/in/nathan-pemberton-3566816/">Nathan Pemberton</a>. I worked on the KaaS (Kernel as a Service) project. Now, I am working on the <a href="https://skyplane.org/">Skyplane</a> project at the <a href="https://sky.cs.berkeley.edu/">SkyLab</a> with Professor Joseph Gonzalez and Professor <a href="http://people.eecs.berkeley.edu/~istoica/">Ion Stoica</a>. I am also researching deep learning for code vulnerability detection under the supervision of Professor <a href="https://surrealyz.github.io/">Yizheng Chen</a> and Professor <a href="http://people.eecs.berkeley.edu/~daw/">David Wagner</a>.</p>
 
 <p>In my free time, I enjoy playing basketball, poker, and video games. Recently, I'm learning to play guitar.</p>
 
@@ -40,15 +40,15 @@ Stat210A: Theoretical Statistics
 
 Math104: Introduction to Analysis
 
-Math185: Introduction to Complex Analysis
+Math185: Introduction to Complex Analysis (A+)
 
 <h4>Fall 2021</h4>
 
 CS186: Introduction to Database Systems
 
-CS194-26*: Intro to Computer Vision and Computational Photography
+CS194-26*: Intro to Computer Vision and Computational Photography (A)
 
-EECS127*: Optimization Models in Engineering
+EECS127*: Optimization Models in Engineering (A+)
 
 Math128A: Numerical Analysis
 
@@ -56,15 +56,15 @@ Math128A: Numerical Analysis
 
 CS162: Operating Systems and System Programming
 
-CS189*: Introduction to Machine Learning
+CS189*: Introduction to Machine Learning (A+)
 
-Math113: Introduction to Abstract Algebra
+Math113: Introduction to Abstract Algebra (A+)
 
 <h4>Fall 2020</h4>
 
 CS170: Efficient Algorithms and Intractable Problems
 
-CS61C: Machine Structures
+CS61C: Machine Structures (A+)
 
 Math110: Linear Algebra
 
@@ -74,7 +74,7 @@ Stat134: Concepts of Probability
 
 Lower-division CS and Math courses for major requirements
 
-*same as the graduate version
+***same as the graduate version**
 
 <h1>Teaching</h1>
 
